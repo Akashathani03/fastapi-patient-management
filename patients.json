@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "city": "Bengaluru",
+        "age": 25,
+        "gender": "Male",
+        "height": 175,
+        "weight": 68,
+        "bmi": 22.2,
+        "verdict": "Normal"
+    },
+    {
+        "id": 2,
+        "name": "Priya Patil",
+        "city": "Mysuru",
+        "age": 30,
+        "gender": "Female",
+        "height": 160,
+        "weight": 72,
+        "bmi": 28.1,
+        "verdict": "Overweight"
+    },
+    {
+        "id": 3,
+        "name": "Arjun Kumar",
+        "city": "Hubballi",
+        "age": 42,
+        "gender": "Male",
+        "height": 180,
+        "weight": 95,
+        "bmi": 29.3,
+        "verdict": "Overweight"
+    },
+    {
+        "id": 4,
+        "name": "Sneha Rao",
+        "city": "Mangaluru",
+        "age": 22,
+        "gender": "Female",
+        "height": 165,
+        "weight": 55,
+        "bmi": 20.2,
+        "verdict": "Normal"
+    },
+    {
+        "id": 5,
+        "name": "Vikram Singh",
+        "city": "Belagavi",
+        "age": 51,
+        "gender": "Male",
+        "height": 172,
+        "weight": 102,
+        "bmi": 34.5,
+        "verdict": "Obese"
+    },
+    {
+        "id": 6,
+        "name": "Ananya Desai",
+        "city": "Dharwad",
+        "age": 28,
+        "gender": "Female",
+        "height": 158,
+        "weight": 50,
+        "bmi": 20.0,
+        "verdict": "Normal"
+    },
+    {
+        "id": 7,
+        "name": "Kiran Joshi",
+        "city": "Bengaluru",
+        "age": 35,
+        "gender": "Male",
+        "height": 168,
+        "weight": 85,
+        "bmi": 30.1,
+        "verdict": "Obese"
+    },
+    {
+        "id": 8,
+        "name": "Meera Kulkarni",
+        "city": "Shivamogga",
+        "age": 45,
+        "gender": "Female",
+        "height": 162,
+        "weight": 78,
+        "bmi": 29.7,
+        "verdict": "Overweight"
+    },
+    {
+        "id": 9,
+        "name": "Rohan Shetty",
+        "city": "Udupi",
+        "age": 19,
+        "gender": "Male",
+        "height": 178,
+        "weight": 62,
+        "bmi": 19.6,
+        "verdict": "Normal"
+    },
+    {
+        "id": 10,
+        "name": "Kavya Nair",
+        "city": "Tumakuru",
+        "age": 38,
+        "gender": "Female",
+        "height": 155,
+        "weight": 88,
+        "bmi": 36.6,
+        "verdict": "Obese"
+    }
+]
