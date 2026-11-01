@@ -97,16 +97,5 @@
         "weight": 62,
         "bmi": 19.6,
         "verdict": "Normal"
-    },
-    {
-        "id": 10,
-        "name": "Kavya Nair",
-        "city": "Tumakuru",
-        "age": 38,
-        "gender": "Female",
-        "height": 155,
-        "weight": 88,
-        "bmi": 36.6,
-        "verdict": "Obese"
     }
 ]
